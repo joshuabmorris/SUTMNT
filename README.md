@@ -16,6 +16,6 @@ This repository is kept in relation to the following:
 - Paper 1, etc.
 
 ## Authors
-- <b>Joshua Morris<b/>, Researcher in Aerospace Engineering, Swansea University<br>[LinkedIn](https://www.linkedin.com/in/joshbmorris/) | joshua.ben.morris@swansea.ac.uk
-- <b>Matthew Bonney<b/>, Lecturer in Space Engineering, Swansea University<br>[Website](https://www.swansea.ac.uk/staff/m.s.bonney/) | [LinkedIn](https://www.linkedin.com/in/matthew-bonney-056174238/) | m.s.bonney@swansea.ac.uk
-- <b>Hamed Haddad Khodaparast<b/>, Professor in Aerospace Engineering, Swansea University<br>[Website](https://www.swansea.ac.uk/staff/h.haddadkhodaparast/) | [LinkedIn](https://www.linkedin.com/in/hamed-haddad-khodaparast-098075181/) | h.haddadkhodaparast@swansea.ac.uk
+- <b>Joshua Morris</b>, Researcher in Aerospace Engineering, Swansea University<br>[LinkedIn](https://www.linkedin.com/in/joshbmorris/) | joshua.ben.morris@swansea.ac.uk
+- <b>Matthew Bonney</b>, Lecturer in Space Engineering, Swansea University<br>[Website](https://www.swansea.ac.uk/staff/m.s.bonney/) | [LinkedIn](https://www.linkedin.com/in/matthew-bonney-056174238/) | m.s.bonney@swansea.ac.uk
+- <b>Hamed Haddad Khodaparast</b>, Professor in Aerospace Engineering, Swansea University<br>[Website](https://www.swansea.ac.uk/staff/h.haddadkhodaparast/) | [LinkedIn](https://www.linkedin.com/in/hamed-haddad-khodaparast-098075181/) | h.haddadkhodaparast@swansea.ac.uk
