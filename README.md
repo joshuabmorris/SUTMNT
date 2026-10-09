@@ -9,8 +9,8 @@
 Created by Joshua Morris in support of PhD research, with support from Dr. Matthew Bonney and Prof. Hamed Haddad Khodaparast.
 
 Contents:
-- MATLAB scripting
-- Raw data CSV files, captured using LabVIEW.
+- MATLAB scripting pipeline.
+- Raw data CSV files, captured using LabVIEW (The .csv's have been compressed to .zip archives to reduce their size. Before using them, ensure they're extracted to the 'data/' folder).
 
 This repository is kept in relation to the following:
 - '[Experimental Quantification of Coupled Thermal-Mechanical Nonlinearities in a Bolted Joint](https://github.com/joshuabmorris/SUTMNT/blob/main/papers/ISMA_2026.pdf)', ISMA 2026 Conference Proceedings, Leuven, Belgium.
