@@ -13,8 +13,8 @@ Contents:
 - Raw data CSV files, captured using LabVIEW (The .csv's have been compressed to .zip archives to reduce their size. Before using them, ensure they're extracted to the 'data/' folder).
 
 This repository is kept in relation to the following:
-- '[Experimental Quantification of Coupled Thermal-Mechanical Nonlinearities in a Bolted Joint](https://github.com/joshuabmorris/SUTMNT/blob/main/papers/ISMA_2026.pdf)', ISMA 2026 Conference Proceedings, Leuven, Belgium.
-- '[Temperature-Dependent Nonlinear Resonance of a Bolted Lap Joint]()',in submission.
+- '[Experimental Quantification of Coupled Thermal-Mechanical Nonlinearities in a Bolted Joint](https://github.com/joshuabmorris/SUTMNT/blob/main/papers/ExperimentalQuantificationofCoupledThermal-MechanicalNonlinearitiesinaBoltedJoint.pdf)', ISMA 2026 Conference Proceedings, Leuven, Belgium.
+- '[Temperature-Dependent Nonlinear Resonance of a Bolted Lap Joint](https://github.com/joshuabmorris/SUTMNT/blob/main/papers/Temperature-DependentNonlinearResonanceofaBoltedLapJoint.pdf)', in submission.
 
 ## Authors
 - <b>Joshua Morris</b>, Researcher in Aerospace Engineering, Swansea University<br>[LinkedIn](https://www.linkedin.com/in/joshbmorris/) | joshua.ben.morris@swansea.ac.uk
