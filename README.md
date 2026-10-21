@@ -8,10 +8,12 @@
 
 Created by Joshua Morris in support of PhD research, with support from Dr. Matthew Bonney and Prof. Hamed Haddad Khodaparast.
 
-Contents:
-- MATLAB scripting pipeline.
-- Raw data CSV files, captured using LabVIEW (The .csv's have been compressed to .zip archives to reduce their size. Before using them, ensure they're extracted to the 'data/' folder).
+## Repository Contents:
+- Experimental
+  -  MATLAB scripting pipeline.
+  - Raw data CSV files, captured using LabVIEW (The .csv's have been compressed to .zip archives to reduce their size. Before using them, ensure they're extracted to the 'data/' folder).
 
+## Associated Publications
 This repository is kept in relation to the following:
 - '[Experimental Quantification of Coupled Thermal-Mechanical Nonlinearities in a Bolted Joint](https://github.com/joshuabmorris/SUTMNT/blob/main/papers/ExperimentalQuantificationofCoupledThermal-MechanicalNonlinearitiesinaBoltedJoint.pdf)', ISMA 2026 Conference Proceedings, Leuven, Belgium.
 - '[Temperature-Dependent Nonlinear Resonance of a Bolted Lap Joint](https://github.com/joshuabmorris/SUTMNT/blob/main/papers/Temperature-DependentNonlinearResonanceofaBoltedLapJoint.pdf)', in submission.
